@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.nurlan.mynoteapp.MainActivity">
+    <item
+        android:id="@+id/creatnote"
+        android:orderInCategory="100"
+        android:icon="@drawable/plus"
+        android:title="Создать"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:icon="@drawable/info"
+        android:title="0 приложения"
+        app:showAsAction="ifRoom" />
+
+</menu>

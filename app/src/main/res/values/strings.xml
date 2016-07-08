@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Мои заметки</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_note">Создание заметки</string>
+    <string name="title_activity_view_note">Заметка</string>
+    <string name="title_activity_about_app">О приложении </string>
+    <string name="gps_provider">GPS</string>>
+    <string name="network_provider">Network</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
